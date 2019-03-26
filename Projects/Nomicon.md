@@ -6,7 +6,10 @@ A [Meridion](Meridion) project is a Nomicon game wrapped around a git project to
 
 # Active Games
 
-* [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) - umbrella game to [Decentralize the Singularity](Decentralize the Singularity)
+* [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) - umbrella game to [Decentralize the Singularity](Decentralize-the-Singularity)
+
+# Potential Games 
+
 * OCEANomicon - governs the [OCEAN](OCEAN) blockchain project
-* CastleNomicon - governs the [Castle in the Cloud](Castle in the Cloud) project
+* CastleNomicon - governs the [Castle in the Cloud](Castle-in-the-Cloud) project
 * KyberNomicon - software development game 
