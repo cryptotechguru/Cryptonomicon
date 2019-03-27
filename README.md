@@ -37,7 +37,7 @@
 1. A multi-vote MAY be conducted on the game wiki.
 1. An option MAY be added to the multi-vote by the sponsor during the vote but options MAY NOT be removed once the vote starts.
 1. Voters MAY update their votes at any time before the vote ends but MUST NOT update anyone else's votes.
-1. A multi-vote MAY be resolved early only if all eligible have voted on all options.
+1. A multi-vote MAY be resolved early only if all eligible voters have voted on all options.
 
 ## [Projects](Projects/)
 
