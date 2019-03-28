@@ -1,6 +1,6 @@
 # Player
 
-1. The Player role has the responsibility to play by the rules of the game.
+1. The Player [role](../) has the responsibility to play by the rules of the game.
 1. Players MUST maintain their own player-space repo [(sample)]() that includes:
 * name
 * profile pic
