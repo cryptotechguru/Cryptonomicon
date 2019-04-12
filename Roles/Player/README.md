@@ -22,4 +22,5 @@
 * [@macterra](https://macterra.github.io/macterra-space/)
 * [@flaxscrip](https://flaxscrip.github.io/flaxscrip-space/)
 * [@manfretto](https://manfretto.github.io/Manfretto-space/)
+* [@sanchopansa](https://github.com/sanchopansa/player-space)
 * [@kinetic-311](https://kinetic-311.github.io/kinetic-311-space//)
