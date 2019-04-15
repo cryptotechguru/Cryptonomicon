@@ -48,12 +48,12 @@ The players involved SHOULD marshal the bounty through the following standard st
 
 1. The Gatekeeper is responsible for testing deliverables against requirements.
 1. The Gatekeeper opens separate issues for any deltas found, moves the bounty issue back to `In Progress` and hands off to the Keymaster.
-1. If the requirements are all satisfied the Gatekeeper moves the issue to `Complete` and hands off to the Keymaster.
+1. If the requirements are all satisfied the Gatekeeper moves the issue to `Complete` and hands off to the Keymaster and Treasurer.
 
 ### Complete
 
 1. The Keymaster creates a payment request in the pay server and sends a link directly to the Treasurer.
-1. The Treasurer verifies that the issue was marked as `Complete` by the Gatekeeper and that the wiki page is updated.
+1. The Treasurer verifies the request and sends the payment to the Keymaster.
 1. When the payment is received the Keymaster closes the issue.
 
 ## Estimates
