@@ -14,8 +14,6 @@
 * funding deadline
 * bounty address 
 * deliverables
-1. After the bounty is funded the requirements and/or estimate MAY only be updated if both the Gatekeeper and Keymaster approve the changes.
-1. The Gatekeeper and Keymaster can request an update to the estimate table at any time.
 
 ## Process
 
@@ -27,7 +25,7 @@ The players involved SHOULD marshal the bounty through the following standard st
 1. Requirements (acceptance criteria) are managed by the Gatekeeper.
 1. An estimate (from the table below) is provided by the Keymaster.
 1. The Gatekeeper and Keymaster negotiate requirements and estimates until they come to a common understanding.
-1. When ready the Gatekeeper moves the issue to `Proposed` and hands off to the Treasurer.
+1. When ready the Gatekeeper moves the issue to `Proposed` and hands off (assigns the issue) to the Treasurer.
 
 ### Proposed
 
@@ -42,6 +40,7 @@ The players involved SHOULD marshal the bounty through the following standard st
 
 1. The Keymaster is responsible for delivering on the requirements.
 1. The Keymaster should periodically update the issue with progress reports.
+1. After the bounty is funded the requirements and/or estimate MAY only be updated if both the Gatekeeper and Keymaster approve the changes.
 1. When ready the Keymaster updates the Deliverables section of the wiki page, moves the issue to `In Review`, and hands off to the Gatekeeper.
 
 ### In Review
@@ -57,6 +56,9 @@ The players involved SHOULD marshal the bounty through the following standard st
 1. When the payment is received the Keymaster closes the issue.
 
 ## Estimates
+
+1. The Treasurer is responsible for periodically adjusting bounty sizing estimate table.
+1. The Gatekeeper and Keymaster can request an update to the estimate table at any time.
 
 | size | time (hours, P50/P90) | bounty (BTC) | 
 | ---- | ----- | ----- |
