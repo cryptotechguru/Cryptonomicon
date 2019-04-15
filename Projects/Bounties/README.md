@@ -11,7 +11,9 @@
 * associated project link
 * requirements
 * estimate
+* funding deadline
 * bounty address 
+* deliverables
 1. After the bounty is funded the requirements and/or estimate MAY only be updated if both the Gatekeeper and Keymaster approve the changes.
 1. The Gatekeeper and Keymaster can request an update to the estimate table at any time.
 
@@ -31,9 +33,9 @@ The players involved SHOULD marshal the bounty through the following standard st
 
 1. The Treasurer reviews the bounty's market value against comparable work in other markets. If out of line the Treasurer SHOULD send the issue back to `Triage`.
 1. The Treasurer creates a crowdfund page on the pay server and publishes the corresponding link on the wiki page.
-1. The Treasurer moves the issue to `Active` and notifies subscribers that the bounty is open for funding.
+1. The Treasurer notifies subscribers that the bounty is open for funding.
 1. The Treasurer monitors the funding and periodically notifies subscribers of progress.
-1. If the bounty is funding reaches 100% the Treasurer moves the issue to `In Progress` and hands off to the Keymaster.
+1. If the bounty funding reaches 100% the Treasurer moves the issue to `In Progress` and hands off to the Keymaster.
 1. If the deadline is reached before the bounty is funded the Treasurer is responsible for sending refunds to participants, updating the wiki page and closing the issue.
 
 ### In Progress
