@@ -24,3 +24,4 @@ Each of the projects below are all self-funded and community-driven. If one (or 
 * [Meridion](Meridion.md) - Open Project Governance-as-a-Service
 * [Castle in the Cloud](Castle-in-the-Cloud.md) - Easy DIY Sovereign Cloud Server
 * [Lexinomicon](Lexinomicon.md) - Nomicon gamespace for governance of Ulex bounties
+* [Metatron](Metatron.md) - Securing ownership of random numbers
